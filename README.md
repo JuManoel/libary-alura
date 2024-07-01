@@ -10,5 +10,5 @@ however, this type of relation was harder tham I thought so I decided to use One
 <p>Becouse of the way that the <a href = "https://gutendex.com/">API</a> send the data (they send authors inseide the books)
 was a kind of difficult. But with a few condicionals and one try catch, I was able to make it</p>
 <h1>Conclusion</h1>
-<p>For sure, Spring Boot is amazing, it make very simple a lot of stuff, like sabe on a DataBase, convert Data to another
+<p>For sure, Spring Boot is amazing, it make very simple a lot of stuff, like make connection and CRUD operation on a DataBase, convert Data to another
 (JSON to record) and that made me code fastar than I was used to code</p>
